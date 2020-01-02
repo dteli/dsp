@@ -101,9 +101,15 @@ Plugging this all in gives ((1/300) * 1) / ((1/300) + (1/2) * (1/125)), or 5/11.
 
 
 ### Q6. Bayesian &amp; Frequentist Comparison  
-How do frequentist and Bayesian statistics compare?
+> How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+Bayesian statistics seems to always assume it makes some sense to assign a prior probability. I guess that makes sense for most things, I don't know.
+
+
+The frequentist approach to statistics isn't based on logic in the way that the Bayesian is, although of course it's based on math.. 
+
+*still working on this*
+
 
 ---
 
